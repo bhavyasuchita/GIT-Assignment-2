@@ -85,13 +85,13 @@
             margin: auto;
         }
 
-        .tweet-container {
+        .instagram-container {
             min-width: 30px;
             min-height: 100px;
             margin: 0 20px;
             position: absolute;
             left: -100px;
-            top: 110px;
+            top: 5px;
         }
         .content-body{
             min-width: 400px;
@@ -124,7 +124,7 @@
                 font-size: 12px;
                 line-height: 18px;
             }
-            .tweet-container {
+            .instagram-container {
                 top: 80px;
             }
             .content{
